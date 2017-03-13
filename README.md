@@ -1,6 +1,6 @@
 # React Native Performance Experiments
 
-Source from Wix.com https://github.com/wix/rn-perf-experiments/blob/master/README.md
+Source from Wix.com https://github.com/wix/rn-perf-experiments
 
 Various performance experiments with React Native over a swipeable card example. The same example is implemented multiple times with a pan responder, direct component manipulation, native container and Animated library.
 
